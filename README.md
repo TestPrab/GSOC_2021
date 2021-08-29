@@ -18,12 +18,15 @@ ALL The Above Codes are Merged in [IfcOpenShell Repository](https://github.com/I
 
 Here are the list of all the sucessfully merged pull requests:
 
-- [Added requirements.txt ](https://github.com/IfcOpenShell/IfcOpenShell/pull/1397)
-- [Added Modue Loader](https://github.com/IfcOpenShell/IfcOpenShell/pull/1468)
-- [Added BCFXML Library for Version 3.0](https://github.com/IfcOpenShell/IfcOpenShell/pull/1486)
-- [Added BCF API Version 3.0](https://github.com/IfcOpenShell/IfcOpenShell/pull/1486)
-- [Added Test Server for BCF API Version 3.0](https://github.com/IfcOpenShell/IfcOpenShell/pull/1626)
-- [Server Updates](https://github.com/IfcOpenShell/IfcOpenShell/pull/1671)
+- All The PRs merged in the [IfcOpenShell Repository](https://github.com/IfcOpenShell/IfcOpenShell/pulls?q=is%3Apr+is%3Aclose+author%3ATestPrab+is%3Amerged)
+
+Challenges Faced:<br>
+The initial phase of GSOC was the only challenging phase where I had to struggle how to setup the repository and how to work on it, what is what and how to do it. I had to learn how to work on a repository and how to do a pull requests. Once this was done, I was able to work on the repository and was able to create proper the pull requests.
+
+Todo List:<br>
+
+- Implementing Document and extension XSD for the bcfxml.py library.
+- Implementing Odata filtering for the client side of bcfapi.py.
 
 The Mentors Assigned to the project are:
 
